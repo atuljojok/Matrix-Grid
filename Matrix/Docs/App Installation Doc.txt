@@ -1,0 +1,10 @@
+                    Matrix grid installation
+
+
+-> Open Setup folder
+ 
+-> Open script folder
+
+-> Click matrixgrid-installation-App
+
+-> install

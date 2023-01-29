@@ -1,0 +1,10 @@
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\bin\Release\MatrixGridPattern.exe.config
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\bin\Release\MatrixGridPattern.exe
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\obj\Release\MatrixGridPattern.csproj.AssemblyReference.cache
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\obj\Release\MatrixGridPattern.FormMAtrixGrid.resources
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\obj\Release\MatrixGridPattern.Properties.Resources.resources
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\obj\Release\MatrixGridPattern.csproj.GenerateResource.cache
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\obj\Release\MatrixGridPattern.csproj.CoreCompileInputs.cache
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\obj\Release\MatrixGridPattern.exe
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\obj\Release\MatrixGridPattern.pdb
+E:\C++ Sample\MatrixGridPattern\MatrixGridPattern\bin\Release\MatrixGridPattern.pdb
